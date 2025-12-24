@@ -1964,7 +1964,8 @@ case $os in
 		;;
 	# Now accept the basic system types.
 	# Each alternative MUST end in a * to match a version number.
-	  abug \
+	  anos \
+  | abug \
 	| aix* \
 	| amdhsa* \
 	| amigados* \
